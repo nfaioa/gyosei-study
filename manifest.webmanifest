@@ -1,0 +1,14 @@
+{
+  "name": "行政書士の学び舎",
+  "short_name": "行政書士学習",
+  "description": "理解度に合わせて問題を復習する、個人用の行政書士学習アプリ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f8f5",
+  "theme_color": "#17304a",
+  "icons": [
+    {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
